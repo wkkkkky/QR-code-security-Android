@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="zxing-master1/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/yuZhiQiang-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/yuZhiQiang-app.iml" group="zxing-master1/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zxing-master1.iml" filepath="$PROJECT_DIR$/.idea/modules/zxing-master1.iml" group="zxing-master1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zxinglibrary/zxinglibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/zxinglibrary/zxinglibrary.iml" group="zxing-master1/zxinglibrary" />
+    </modules>
+  </component>
+</project>

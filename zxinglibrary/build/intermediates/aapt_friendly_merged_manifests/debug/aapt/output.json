@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "applicationId": "com.yzq.zxinglibrary",
+  "variantType": "LIBRARY",
+  "elements": [
+    {
+      "outputType": {
+        "type": "AAPT_FRIENDLY_MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 227,
+        "versionName": "2.2.7",
+        "outputFile": "zxinglibrary-debug.aar",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.yzq.zxinglibrary",
+        "split": ""
+      }
+    }
+  ]
+}

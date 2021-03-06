@@ -1,0 +1,58 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.yzq.zxinglibrary"
+4    android:versionCode="227"
+5    android:versionName="2.2.7" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\wkk\Desktop\zxing-master\zxing-master1\zxinglibrary\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="27" />
+9-->C:\Users\wkk\Desktop\zxing-master\zxing-master1\zxinglibrary\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->C:\Users\wkk\Desktop\zxing-master\zxing-master1\zxinglibrary\src\main\AndroidManifest.xml:5:5-65
+11-->C:\Users\wkk\Desktop\zxing-master\zxing-master1\zxinglibrary\src\main\AndroidManifest.xml:5:22-62
+12    <uses-permission android:name="android.permission.FLASHLIGHT" />
+12-->C:\Users\wkk\Desktop\zxing-master\zxing-master1\zxinglibrary\src\main\AndroidManifest.xml:6:5-69
+12-->C:\Users\wkk\Desktop\zxing-master\zxing-master1\zxinglibrary\src\main\AndroidManifest.xml:6:22-66
+13
+14    <uses-feature android:name="android.hardware.camera" />
+14-->C:\Users\wkk\Desktop\zxing-master\zxing-master1\zxinglibrary\src\main\AndroidManifest.xml:8:5-60
+14-->C:\Users\wkk\Desktop\zxing-master\zxing-master1\zxinglibrary\src\main\AndroidManifest.xml:8:19-57
+15    <uses-feature android:name="android.hardware.camera.autofocus" />
+15-->C:\Users\wkk\Desktop\zxing-master\zxing-master1\zxinglibrary\src\main\AndroidManifest.xml:9:5-70
+15-->C:\Users\wkk\Desktop\zxing-master\zxing-master1\zxinglibrary\src\main\AndroidManifest.xml:9:19-67
+16
+17    <uses-permission android:name="android.permission.VIBRATE" />
+17-->C:\Users\wkk\Desktop\zxing-master\zxing-master1\zxinglibrary\src\main\AndroidManifest.xml:11:5-66
+17-->C:\Users\wkk\Desktop\zxing-master\zxing-master1\zxinglibrary\src\main\AndroidManifest.xml:11:22-63
+18    <uses-permission android:name="android.permission.WAKE_LOCK" />
+18-->C:\Users\wkk\Desktop\zxing-master\zxing-master1\zxinglibrary\src\main\AndroidManifest.xml:12:5-68
+18-->C:\Users\wkk\Desktop\zxing-master\zxing-master1\zxinglibrary\src\main\AndroidManifest.xml:12:22-65
+19    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+19-->C:\Users\wkk\Desktop\zxing-master\zxing-master1\zxinglibrary\src\main\AndroidManifest.xml:13:5-80
+19-->C:\Users\wkk\Desktop\zxing-master\zxing-master1\zxinglibrary\src\main\AndroidManifest.xml:13:22-77
+20    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+20-->C:\Users\wkk\Desktop\zxing-master\zxing-master1\zxinglibrary\src\main\AndroidManifest.xml:14:5-81
+20-->C:\Users\wkk\Desktop\zxing-master\zxing-master1\zxinglibrary\src\main\AndroidManifest.xml:14:22-78
+21    <!-- suppress AndroidUnknownAttribute -->
+22    <application>
+22-->C:\Users\wkk\Desktop\zxing-master\zxing-master1\zxinglibrary\src\main\AndroidManifest.xml:18:5-26:19
+23        <activity
+23-->C:\Users\wkk\Desktop\zxing-master\zxing-master1\zxinglibrary\src\main\AndroidManifest.xml:19:9-25:76
+24            android:name="com.yzq.zxinglibrary.android.CaptureActivity"
+24-->C:\Users\wkk\Desktop\zxing-master\zxing-master1\zxinglibrary\src\main\AndroidManifest.xml:20:13-52
+25            android:configChanges="orientation|screenSize"
+25-->C:\Users\wkk\Desktop\zxing-master\zxing-master1\zxinglibrary\src\main\AndroidManifest.xml:21:13-59
+26            android:networkSecurityConfig="@xml/network_security_config"
+26-->C:\Users\wkk\Desktop\zxing-master\zxing-master1\zxinglibrary\src\main\AndroidManifest.xml:25:13-73
+27            android:screenOrientation="portrait"
+27-->C:\Users\wkk\Desktop\zxing-master\zxing-master1\zxinglibrary\src\main\AndroidManifest.xml:22:13-49
+28            android:theme="@style/Theme.AppCompat.NoActionBar"
+28-->C:\Users\wkk\Desktop\zxing-master\zxing-master1\zxinglibrary\src\main\AndroidManifest.xml:23:13-63
+29            android:windowSoftInputMode="adjustPan|stateHidden" />
+29-->C:\Users\wkk\Desktop\zxing-master\zxing-master1\zxinglibrary\src\main\AndroidManifest.xml:24:13-64
+30    </application>
+31
+32</manifest>
